@@ -75,3 +75,9 @@ Date, Region, Transmission, Body Style, Engine, Gender, Company, Cars Sold, Tota
 
 
 <img width="778" height="439" alt="Dashboard" src="https://github.com/user-attachments/assets/0d447647-3def-4f52-9748-0cc26ef73f23" />
+
+
+## 🏁 Conclusion
+
+The Car Sales Dashboard transforms raw automotive sales data into an insightful visual story.
+Through interactive KPIs, filters, and dynamic visuals, it enables business users to track performance, identify sales trends, and make informed, data-driven decisions.
